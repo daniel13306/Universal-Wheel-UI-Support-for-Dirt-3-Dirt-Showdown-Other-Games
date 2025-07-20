@@ -20,6 +20,8 @@ To remap your own buttons, toggle the `noprint` boolean at the top of the file. 
 # How to Use
 
 ## ✅ Simple (EXE) Use:
+<img width="365" height="120" alt="image" src="https://github.com/user-attachments/assets/f0d8299a-03b8-4d45-8930-67a9ebb4ebd7" />
+
 - Download the `.exe` file and run it.  
 - Windows will give a **“Windows protected your PC”** warning because the EXE is unsigned. (This is a common issue with Pyinstaller)
   - Just click **More info → Run anyway** to continue.
@@ -28,6 +30,8 @@ To remap your own buttons, toggle the `noprint` boolean at the top of the file. 
 - If the key mapping isn’t correct for your wheel, download the `.py` script to easily remap it.
 
 ## ✅ Python (Script) Use:
+<img width="894" height="55" alt="image" src="https://github.com/user-attachments/assets/e6429adb-f37b-458e-8a87-874c647f32f4" />
+
 - Download the `.py` script and run it manually.
 - If you don’t have Python:  
    - Install **Python 3.10** (recommended for better pygame compatibility).
