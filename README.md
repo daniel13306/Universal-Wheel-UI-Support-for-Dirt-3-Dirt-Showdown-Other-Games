@@ -22,7 +22,7 @@ To remap your own buttons, toggle the `noprint` boolean at the top of the file. 
 ## ✅ Simple (EXE) Use:
 <img width="365" height="120" alt="image" src="https://github.com/user-attachments/assets/f0d8299a-03b8-4d45-8930-67a9ebb4ebd7" />
 
-- Download the `.exe` file and run it.  
+- Download the `.exe` file and run it.  (Releases at the top right, cant find it? click here: https://github.com/daniel13306/Universal-Wheel-UI-Support-for-Dirt-3-Dirt-Showdown-Other-Games/releases/download/Release/WheelUI.Support.By.Eagle.G29.exe)
 - Windows will give a **“Windows protected your PC”** warning because the EXE is unsigned. (This is a common issue with Pyinstaller)
   - Just click **More info → Run anyway** to continue.
 - This EXE is ready to go, no need to install Python or any packages.
